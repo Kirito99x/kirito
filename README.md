@@ -1,0 +1,2 @@
+# kirito
+ ai script
